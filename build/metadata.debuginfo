@@ -1,0 +1,5 @@
+[Runtime]
+name=com.github.anhnhps01145.eoszalo.yml.Debug
+
+[ExtensionOf]
+ref=app/com.github.anhnhps01145.eoszalo.yml/x86_64/master
