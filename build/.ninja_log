@@ -1,0 +1,6 @@
+# ninja log v5
+0	391	1631410758092798267	com.github.anhnhps01145.eoszalo@exe/src/eZalo.c	97d88e79c7d305f0
+391	688	1631410758472808449	com.github.anhnhps01145.eoszalo@exe/meson-generated_src_eZalo.c.o	743e1cf72ac4d134
+689	959	1631410758744815737	com.github.anhnhps01145.eoszalo	5dd7453c88fdb271
+3	192	0	meson-install	9bd7faa9472bf40f
+7	206	0	meson-install	9bd7faa9472bf40f
