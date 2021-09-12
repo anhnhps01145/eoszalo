@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2019 Huynh Anh <anhnhps01145@gmail.com> -->
+<!-- Copyright 2021 Huynh Anh <anhnhps01145@gmail.com> -->
 <component type="desktop">
   <id>com.github.anhnhps01145.eoszalo</id>
   <metadata_license>CC0</metadata_license>
-  <name>Zalo eOS</name>
+  <name>eZalo</name>
   <summary>Phiên bản Zalo không chính thức dành cho eOS</summary>
   <description>
     <p>Ứng dụng này không phải ứng dụng chính thức của Zalo, tác giả (là tôi) không chịu trách nhiệm trước rủi ro bạn gặp phải khi sử dụng (Mặc dù cũng chả có cái rủi ro nào đâu nhưng vẫn phải ghi cho đúng nguyên tắc)</p><br>

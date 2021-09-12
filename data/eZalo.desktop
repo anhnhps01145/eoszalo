@@ -1,10 +1,11 @@
 [Desktop Entry]
-Name=eOS Zalo Unofficial
+Name=eZalo
 GenericName=Be Myself
 Comment=Phiên bản Zalo không chính thức cho eOS
 Categories=InstantMessaging;Chat;
-Exec=com.github.anhnhps01145.eoszalo
-Icon=com.github.yourusername.yourrepositoryname
+Exec=eZalo
+Icon=eZalo
 Terminal=false
 Type=Application
+Version=1.0
 Keywords=zalo;zaloubuntu;
