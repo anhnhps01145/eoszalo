@@ -1,5 +1,0 @@
-# ninja log v5
-0	419	1631407451249724787	eZalo@exe/src/eZalo.c	9cfbbb985617350d
-419	740	1631407451649712787	eZalo@exe/meson-generated_src_eZalo.c.o	d98fd6c709c448a7
-741	1031	1631407451937704148	eZalo	716313dc6f3f8805
-6	206	0	meson-install	9bd7faa9472bf40f
